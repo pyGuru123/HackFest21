@@ -1,0 +1,21 @@
+{
+	"IMAGES" : [".jpeg", ".jpg", ".tiff", ".gif", ".bmp", ".png", ".svg"],
+	"VIDEOS" : [".avi", ".flv", ".wmv", ".mkv", ".mp4", ".webm", ".mpeg", ".3gp"],
+	"AUDIOS" : [".aac", ".m4a", ".m4p", ".mp3", ".ogg", ".wav", ".wma"],
+
+	"PLAINTEXT" : [".txt", ".in", ".out", ".rtf", ".md"],
+	"DOCS" : [".doc", ".docx", ".odt", ".wpd", ".epub"],
+	"EXCEL" : [".xls", ".xlsx", ".ods"],
+	"PPTs" : [".ppt", ".pptx"],
+	"PDFs" : [".pdf"],
+
+	"ARCHIVES" : [".iso", ".tar", ".gz",".7z", ".rar", ".zip"],
+	
+	"PYTHON" : [".py", ".pyw"],
+	"PROGRAMMING" : [".java", ".c", ".cpp", ".go", ".pl", ".rb", ".bat"],
+	"WEB" : [".html", ".htm", ".xhtml", ".css", ".js", ".php", ".webp"],
+	"DATAFILES" : [".xml", ".json", ".csv"], 
+
+	"EXE" : [".exe"],
+	"SHELL" : [".sh"]
+}
