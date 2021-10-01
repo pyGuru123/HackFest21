@@ -18,7 +18,7 @@
 
 
 
-### 🎯 If you are a beginner, and looking for your first contribution, we are here to help. Just create a simple designing pattern using python language you like in our [Patterns](https://github.com/pyGuru123/Hacktoberfest-2021/tree/main/Patterns) folder which will be counted as your first PR. 🎯 </br>
+## 🎯 If you are a beginner, and looking for your first contribution, we are here to help. Just create a simple designing pattern using python language you like in our [Patterns](https://github.com/pyGuru123/Hacktoberfest-2021/tree/main/Patterns) folder which will be counted as your first PR. 🎯 </br>
 
  Just 5 simple steps to earn your t-shirt for Hacktoberfest 2021
  
@@ -38,7 +38,7 @@
 *	```Star & Fork the Repository```</br>
 *	```Must fill contributors.md```</br>
 
-
+<hr>
 ### 💻 Our repo is open to beginner contributors who want to participate and complete successful PR Request. 
 
 ## Instructions: 🙅🏼 🙅🏼‍♂️
@@ -78,7 +78,7 @@
 ###### Now navigate to your forked repository, and press the “New pull request” button on your left-hand side of the page.
 ## 👑 👑 Hurray!!! You just got closer to completing your hacktoberfest challenge. 😃
 
-## 🎩 Check your Hacktoberfest Contribution status at: 🙅🏼‍♂️
+🎩 Check your Hacktoberfest Contribution status at: 🙅🏼‍♂️
 <a href="https://hacktoberfest.digitalocean.com/profile" target="blank">hacktoberfest.digitalocean.com/profile</a>
 
 </br>
