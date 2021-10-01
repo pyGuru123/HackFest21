@@ -5,7 +5,7 @@
 ![Author](https://img.shields.io/badge/Owner-pyguru123-blue)
 ![License](https://img.shields.io/badge/License-MIT-brightgreen)
 ![Maintained](https://img.shields.io/maintenance/yes/2021) </br>
-<p align="center"><img src="./src/PATTERN.png" /> </p>
+
 <h2 align="center">
   😎😎😎Hacktoberfest-2021 contribution Repo for Beginners😎😎😎
 </h2>
@@ -20,11 +20,12 @@
 
 
 
-🎯 If you are a beginner, and looking for your first contribution, we are here to help. Just create a simple designing pattern using any language you like in our [Patterns](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN/tree/master/Patterns) folder which will be counted as your first PR. 🎯 </br>
+🎯 If you are a beginner, and looking for your first contribution, we are here to help. Just create a simple designing pattern using python language you like in our [Patterns](https://github.com/pyGuru123/Hacktoberfest-2021/tree/main/Patterns) folder which will be counted as your first PR. 🎯 </br>
+
 ## Just 7 simple steps to earn your t-shirt for Hacktoberfest 2021 🧑🏻‍🤝‍🧑🏻
 1. 🎯Open the [Patterns](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN/tree/master/Patterns) folder in your code editor of your choice. </br>
-2. 🎯Make any design pattern you like using any programming language. </br>
-3. 🎯Save your changes and give its name by your github username.</br>
+2. 🎯Make any design pattern you like using python language. </br>
+3. 🎯Save your changes and give its a proper name.</br>
 4. 🎯Upload the screenshot of your pattern in [Pattern_ScreenShots](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN/tree/master/Pattern_ScreenShots) folder and give its name by your github username.</br>
 5. 🎯Upload your photo in [Photos](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN/tree/master/Photos) folder and give its name by your github username.</br>
 6. 🎯Now add your profile details in [Contributors.md](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN/tree/master/Contributors.md) file (**Serial No.**, **Name**, **GitHub Username**, **Photo** [Link to Your Picture in *Photo* Folder], **Pattern File Name**, **Screenshot** [Link to Your Pattern ScreenShot in *Pattern_ScreenShot* Folder], **Institution** and **Email Id**).</br>
