@@ -1,3 +1,6 @@
+# An automation script to help browse anything on google.
+# Provide your search query in the send_keys() method
+
 from selenium import webdriver 
 from selenium.webdriver.common.keys import Keys
 
