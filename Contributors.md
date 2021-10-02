@@ -5,3 +5,4 @@
 |Prasad Bobby                 |prasadbobby                        |Number Pattern                 |prasadbobby057@gmail.com|
 |Sujoy Nath                   |C0mRD                              |Patterns                       |crosstorent@gmail.com|
 |Arpit Pathak                 |pyguru123                          |Blackjack                      |pathakarpit9454@gmail.com|
+|Ajay Kumar                   |Join2AJ                            |Alphabets Pattern               |Join2AJKumar@gmail.com|
