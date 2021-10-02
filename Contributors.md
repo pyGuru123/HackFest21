@@ -9,4 +9,5 @@
 |Ajay Kumar                   |Join2AJ                            |Alphabets Pattern               |Join2AJKumar@gmail.com|
 |  Dhruvit Nagar  |   Winnerdevil   |    Heart Pattern     | dhruvit140618@gmail.com  |
 |  Monish Palisetti | Monish-P | Half Pyramid Pattern of Numbers | monishsai.pv@gmail.com |
+|Tejas Srivastava             |styxOO7                            |Advanced Telephonic Diary       |srivastavatejas2002@gmail.com|
 |  Vishal Kumar             |       vishaaal           |     Sorting + Butterfly Pattern  | officialvk02@gmail.com  
