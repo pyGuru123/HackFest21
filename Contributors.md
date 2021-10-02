@@ -12,3 +12,4 @@
 |Tejas Srivastava             |styxOO7                            |Advanced Telephonic Diary       |srivastavatejas2002@gmail.com|
 |  Vishal Kumar             |       vishaaal           |     Sorting + Butterfly Pattern  | officialvk02@gmail.com  
 | yogender Singh             | Stormchaser1o1        |  social distance detection using opencv   | yogendersingh126@gmail.com
+|Shubhit Sardana             |Critical07                            |S_letter.py       |shubhitsardana2002@gmail.com|
