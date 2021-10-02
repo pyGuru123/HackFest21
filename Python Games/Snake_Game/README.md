@@ -9,8 +9,4 @@ For installing the Tkinter module you can use any of the following commands :
                OR
     2. pip install python-tk
 
-ScreenCast : 
-
-![](Snake_Game.gif)
-
 I hope you enjoy playing the game :)
