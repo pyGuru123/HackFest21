@@ -1,3 +1,4 @@
+#K Shaped Pattern
 def pattern(n):
      k = n - 2
      for i in range(n, -1 , -1):
