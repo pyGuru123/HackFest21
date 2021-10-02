@@ -1,4 +1,4 @@
-CODE
+# CODE
 
 str1 = input("Critical07")
 # str1 = "Critical07"  
@@ -10,16 +10,16 @@ for i in str1:
 
     
     
-OUTPUT
+# OUTPUT
 
 
-C
-Cr
-Cri
-Crit
-Criti
-Critic
-Critica
-Critical
-Critical0
-Critical07
+# C
+# Cr
+# Cri
+# Crit
+# Criti
+# Critic
+# Critica
+# Critical
+# Critical0
+# Critical07
