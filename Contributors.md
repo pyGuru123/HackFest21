@@ -6,8 +6,11 @@
 |Sujoy Nath                   |C0mRD                              |Patterns                       |crosstorent@gmail.com|
 |Arpit Pathak                 |pyguru123                          |Blackjack                      |pathakarpit9454@gmail.com|
 |Pawan Gupta                  |pawangupta5167                     |Patterns                       |pawangupta5167@gmail.com|
-|Ajay Kumar                   |Join2AJ                            |Alphabets Pattern               |Join2AJKumar@gmail.com|
-|  Dhruvit Nagar  |   Winnerdevil   |    Heart Pattern     | dhruvit140618@gmail.com  |
-|  Monish Palisetti | Monish-P | Half Pyramid Pattern of Numbers | monishsai.pv@gmail.com |
-|  Vishal Kumar             |       vishaaal           |     Sorting + Butterfly Pattern  | officialvk02@gmail.com  
+|Ajay Kumar                   |Join2AJ                            |Alphabets Pattern              |Join2AJKumar@gmail.com|
+|Dhruvit Nagar                |Winnerdevil                        |Heart Pattern                  |dhruvit140618@gmail.com  |
+|Monish Palisetti             |Monish-P                           |Half Pyramid Pattern Numbers   |monishsai.pv@gmail.com |
+|Vishal Kumar                 |vishaaal                           |Sorting + Butterfly Pattern    | officialvk02@gmail.com  
 |Nikhil Verma                 |BasicNik                           |Character Pattern              |basicnik1798@gmail.com|
+|Tejas Srivastava             |styxOO7                            |Advanced Telephonic Diary      |srivastavatejas2002@gmail.com|
+|Vishal Kumar                 |vishaaal                           |Sorting + Butterfly Pattern    |officialvk02@gmail.com  
+|yogender Singh               | Stormchaser1o1                    |social distance detection opencv| yogendersingh126@gmail.com
