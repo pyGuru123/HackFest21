@@ -1,3 +1,10 @@
+"""
+Use Patterns.Alphabets_pattern file from the current project
+which contains printer logic such as printA, printB, etc functions
+
+These functions have been mapped with the printer alphabets
+which will print out the given input by the user
+"""
 from Patterns.Alphabets_pattern import *
 
 characters = 'abcdefghijklmnopqrstuvwxyz'
