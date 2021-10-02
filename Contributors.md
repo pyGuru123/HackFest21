@@ -4,3 +4,4 @@
 |Prajjwal Pathak              |pyguru123                          |Tic Tac Toe                    |pyguru123@gmail.com|
 |Prasad Bobby                 |prasadbobby                        |Number Pattern                 |prasadbobby057@gmail.com|
 |Sujoy Nath                   |C0mRD                              |Patterns                       |crosstorent@gmail.com|
+|Arpit Pathak                 |pyguru123                          |Blackjack                      |pathakarpit9454@gmail.com|
