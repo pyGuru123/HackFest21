@@ -5,7 +5,7 @@
 
 from collections import defaultdict
 
-class DepthFristSearch:
+class DepthFirstSearch:
     #To store in dictionary
     def __init__(self):
         self.graph = defaultdict(list)
@@ -31,7 +31,7 @@ class DepthFristSearch:
             if j is not visited:
                 self.traverse(j,visited)
 
-g = DepthFristSearch()
+g = DepthFirstSearch()
 g.addElements(0,1)
 g.addElements(0,2)     
 g.addElements(1,2) 
