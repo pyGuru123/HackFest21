@@ -1,3 +1,6 @@
+from string import ascii_lowercase, ascii_uppercase
+
+
 def alphapat(n):
      
     # initializing value corresponding to 'A'
@@ -23,6 +26,11 @@ def alphapat(n):
      
         # ending line after each row
         print("\r")
- 
-n = 5
-alphapat(n)
+#adding flexibility to this code
+nch=0
+let =input("Upto which letter:\n")
+if (let>='A' and let<='Z'):
+    nch=int(ord(let)-64)
+else:
+    nch=0
+alphapat(nch)

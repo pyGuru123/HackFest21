@@ -6,7 +6,7 @@ def pattern(n):
         k = k - 2
         for j in range(0, i + 1):
             print("* ", end="")
-        print("&#92r")
+        print(" ")
     k = -1
     for i in range(n-1,-1,-1):
         for j in range(k,-1,-1):
@@ -14,7 +14,7 @@ def pattern(n):
         k = k + 2
         for j in range(0, i + 1):
             print("* ", end="")
-        print("&#92r")
- 
- 
-pattern(5)
+        print(" ")
+#user input
+n=int(input("Enter value between 1 and 10"))
+pattern(n)
