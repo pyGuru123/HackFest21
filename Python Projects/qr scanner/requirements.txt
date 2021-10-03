@@ -1,0 +1,7 @@
+Requirements for making this project are:
+
+libraries required:
+1.OpenCv
+
+Modules required:
+1.pyzbar (decode)
