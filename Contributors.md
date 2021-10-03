@@ -18,5 +18,6 @@
 |  Rudransh Joshi  |  FireHead90544  |  Password Gen. + Health Break Notifier |  rudranshjoshi1806@gmail.com  |
 |  Pranav Kushare  |   Pranav082001  |         Duplicate file remover         | pranav.kushare2001@gmail.com  |
 |  Kushal Das      |  Kushal997-das  |     Lord shiv scretch using tikenter   | daskushal997@gmail.com        |
-|  Arsh Manva      | hidekiriyuga    |           shinchan pattern             |    arshmanva21@gmail.com      |
-|Siddartha Aggarwal|     Mammoth     |           mammoth                      |siddarthaaggarwal42@gmail.com  |
+|  Arsh Manva      |   hidekiriyuga  |           shinchan pattern             |    arshmanva21@gmail.com      |
+| Muhammad Bhaska  |    mhmdbhsk     |      Simple Fractions Arithmatic       | muhammadbhaska0@gmail.com     |
+|Siddartha Aggarwal|    Mammoth      |                 mammoth                |siddarthaaggarwal42@gmail.com  |
