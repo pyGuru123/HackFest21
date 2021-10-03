@@ -20,3 +20,6 @@
 |  Kushal Das      |  Kushal997-das  |     Lord shiv scretch using tikenter   | daskushal997@gmail.com        |
 |  Arsh Manva      | hidekiriyuga    |           shinchan pattern             |    arshmanva21@gmail.com      |
 |  Arizki Putra R  | arizkinewbie    |           Number Pattern               |    arizkijitsu@gmail.com      |
+|  Arsh Manva      |   hidekiriyuga  |           shinchan pattern             |    arshmanva21@gmail.com      |
+| Muhammad Bhaska  |    mhmdbhsk     |      Simple Fractions Arithmatic       | muhammadbhaska0@gmail.com     |
+|Siddartha Aggarwal|    Mammoth      |                 mammoth                |siddarthaaggarwal42@gmail.com  
