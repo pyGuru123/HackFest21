@@ -1,0 +1,17 @@
+import pandas as pd
+import numpy as np
+from scipy import signal
+import matplotlib.pyplot as plt
+np.random.seed(23)
+ns = np.linspace(0, 200, 1000)
+# Source matrix
+S = np.array([np.sin(ns * 1),
+              signal.sawtooth(ns * 1.9),
+              np.random.random(len(ns))]).T
+# MIxed matrix
+A = np.array([[0.5, 1, 0.2],
+              [1, 0.5, 0.4],
+              [0.5, 0.8, 1]])
+# Matix with three linear combinations of source matrix
+X = S.dot(A).T
+# Further can be plotted with independent sources
