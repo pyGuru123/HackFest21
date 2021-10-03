@@ -6,7 +6,7 @@ def pattern(n):
         k = k - 1
         for j in range(0, i + 1):
             print('10', end="")
- 
-        print("&#92r")
- 
-pattern(5)
+        print("  ")
+#again adding user input for this for favolous pattern and removing the &#92r
+num=int(input("Enter no between 1 to 10\n"))
+pattern(num)

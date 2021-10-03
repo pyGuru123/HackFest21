@@ -1,4 +1,4 @@
-#function to print floyd’s triangle
+#function to print floydï¿½s triangle
 
 def floydTriangle(n):
 
@@ -12,13 +12,13 @@ def floydTriangle(n):
 
             c+=1
 
-            print(c, end=” “)
+            print(c, end=ï¿½ ï¿½)
 
 
         print()
 
 
-n=int(input(“Enter the number of rows: “))
+n=int(input(ï¿½Enter the number of rows: ï¿½))
 
 
 floydTriangle(n)
@@ -32,3 +32,4 @@ Enter the number of rows: 7
 11 12 13 14 15 
 16 17 18 19 20 21 
 22 23 24 25 26 27 28 
+#error issue to be opened
