@@ -1,31 +1,32 @@
-class queue:
+#implementation of stack 
+class Stack:
     def __init__(self):
-        self.queue = list()
+        self.stack = list()
 
     def push(self,dataval):     
         if dataval not in self.queue:
-            self.queue.insert(0,dataval)
+            self.stack.insert(0,dataval)
             return True
         return False
 
-    def front(self):
+    def top(self):
         if(self.size()>0):
-            return self.queue[0]
+            return self.stack[0]
     
     def pop(self):
         if(self.size()>0):
-            self.queue.pop(0)
+            self.stack.pop(0)
             return True
         return False
 
     def size(self):
-      return len(self.queue)
+      return len(self.stack)
 
-q = queue()
-q.push("Mon")
-q.push("Tue")
-q.push("Wed")
-print(q.size())
-print(q.front())
-print(q.pop())
-print(q.front())
+s = Stack()
+s.push("Mon")
+s.push("Tue")
+s.push("Wed")
+print(s.size())
+print(s.front())
+print(s.pop())
+print(s.front())
