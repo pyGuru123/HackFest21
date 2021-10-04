@@ -4,7 +4,8 @@ import requests
 from pprint import pprint 
 import sys
 
-api_key = '7039da0062c725264f8007faee1bc06c'
+#Get the api key from Open Weather Map website
+api_key = ''
 
 city_name = input("City: ")
 base_url = "https://api.openweathermap.org/data/2.5/weather?appid="+api_key+"&q="+city_name
