@@ -30,6 +30,7 @@ n = 5
 pattern(n)
 
 
+
 # Output
 #     E
 #    D D
