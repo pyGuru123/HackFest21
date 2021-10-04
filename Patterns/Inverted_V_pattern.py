@@ -29,8 +29,6 @@ n = 5
 # function calling
 pattern(n)
 
-
-
 # Output
 #     E
 #    D D
