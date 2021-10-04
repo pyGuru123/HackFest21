@@ -22,4 +22,5 @@
 |  Arizki Putra R  | arizkinewbie    |           Number Pattern               |    arizkijitsu@gmail.com      |
 |  Arsh Manva      |   hidekiriyuga  |           shinchan pattern             |    arshmanva21@gmail.com      |
 | Muhammad Bhaska  |    mhmdbhsk     |      Simple Fractions Arithmatic       | muhammadbhaska0@gmail.com     |
-|Siddartha Aggarwal|    Mammoth      |                 mammoth                |siddarthaaggarwal42@gmail.com  
+|Siddartha Aggarwal|    Mammoth      |                 mammoth                |siddarthaaggarwal42@gmail.com  |
+| Junianto Endra   |     J3ndra      |          Python GUI Text Editor        |  junianto.endra.21@gmail.com  |
