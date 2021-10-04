@@ -5,12 +5,6 @@ import mysql.connector as sql
 mydb = sql.connect(host="localhost", user="root", passwd="", db="python")
 mycursor = mydb.cursor()
 
-# To-Do.
-# add() function which will add data to mysql table.
-# update() function which will update current data.
-# delete() function which will delete some data.
-# display() function which will display all the data.
-
 # MySQL Structure:
 # DB : python
 # Table Name: hotel
