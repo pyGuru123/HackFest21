@@ -27,4 +27,4 @@
 |  Vaibhav Dadhich   |   Vaibhav1405   |           Inverted V Pattern           |  Vaibhavdadhich74@gmail.com   |
 |  Wahyu Firmansyah  |   bywahjoe      |           Tkinter Square Area         	|  wahjoe.why@gmail.com   	    |
 |  Rizal Amrullah    |      rzlamrr    |           Pascal List Pattern          |  rzlamrr.dvst@protonmail.com  |
-| Lorenzo Brooks.    |     CnL26.      | Wormhole Animation.                    | lorenzobrooks26@gmail.com
+| Lorenzo Brooks     |     CnL26       |        Wormhole Animation              | lorenzobrooks26@gmail.com
