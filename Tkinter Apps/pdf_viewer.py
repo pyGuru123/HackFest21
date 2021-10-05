@@ -6,7 +6,7 @@ from tkinter import *
 from tkinter import filedialog
 import PyPDF2
 
-# creating the root rootdow 
+# creating the root window 
 root= Tk()
 root.geometry("800x600")
 root.title("Your PDF Viewer")
