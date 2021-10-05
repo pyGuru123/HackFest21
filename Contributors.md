@@ -26,3 +26,5 @@
 | Junianto Endra   |     J3ndra      |          Python GUI Text Editor        |  junianto.endra.21@gmail.com  |
 |  Vaibhav Dadhich   |   Vaibhav1405   |           Inverted V Pattern           |  Vaibhavdadhich74@gmail.com   |
 |  Rizal Amrullah    |      rzlamrr    |           Pascal List Pattern          |  rzlamrr.dvst@protonmail.com  |
+|  Neh Majmudar    |      Lewy09-Tm25    |           Data collection using OpenCV through webcam          |  nehmajmudar@gmail.com  |
+|  Neh Majmudar    |      Lewy09-Tm25    |           Created a pattern of 'N'          |  nehmajmudar@gmail.com  |
