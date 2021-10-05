@@ -25,3 +25,4 @@
 | Siddartha Aggarwal |     Mammoth     |                mammoth                 | siddarthaaggarwal42@gmail.com |
 | Junianto Endra   |     J3ndra      |          Python GUI Text Editor        |  junianto.endra.21@gmail.com  |
 |  Vaibhav Dadhich   |   Vaibhav1405   |           Inverted V Pattern           |  Vaibhavdadhich74@gmail.com   |
+|  Rizal Amrullah    |      rzlamrr    |           Pascal List Pattern          |  rzlamrr.dvst@protonmail.com  |
