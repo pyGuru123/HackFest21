@@ -6,7 +6,7 @@ from tkinter import *
 from tkinter import filedialog
 import PyPDF2
 
-# creating the root rootdow 
+# creating the root window 
 root= Tk()
 root.geometry("800x600")
 root.title("Your PDF Viewer")
@@ -42,7 +42,6 @@ options= Menu(root)
 root.config(menu=options)
 
 file_menu=Menu(options,tearoff=False)
-
 
 text_box.config(bg="BLACK", fg="WHITE")
 options.add_cascade(label="Open a File",command=open_pdf)
