@@ -43,7 +43,6 @@ root.config(menu=options)
 
 file_menu=Menu(options,tearoff=False)
 
-
 text_box.config(bg="BLACK", fg="WHITE")
 options.add_cascade(label="Open a File",command=open_pdf)
 options.add_cascade(label="Clear Text",command=clear_text)
