@@ -1,0 +1,11 @@
+print("\033[91m********[Get website ip address]********")
+import os
+try:
+    import socket
+except:
+    os.system("pip install socket")
+url=str(input("\033[93mEnter The name of the website[only Name]:"))
+mURL=f"www.{url}.com"
+attack=socket.gethostbyname(mURL)
+print(f"IP address : {attack}")
+#try in your wone compiler
