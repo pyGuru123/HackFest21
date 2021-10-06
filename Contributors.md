@@ -27,3 +27,4 @@
 |  Vaibhav Dadhich   |   Vaibhav1405   |           Inverted V Pattern           |  Vaibhavdadhich74@gmail.com   |
 |  Wahyu Firmansyah  |   bywahjoe      |           Tkinter Square Area         	|  wahjoe.why@gmail.com   	    |
 |  Rizal Amrullah    |      rzlamrr    |           Pascal List Pattern          |  rzlamrr.dvst@protonmail.com  |
+| Muskan Ali Qureshi |    muskan467    |            Typing Speed Test           |      qmuskan467@gmail.com     |
