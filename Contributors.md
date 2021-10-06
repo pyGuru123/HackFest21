@@ -22,4 +22,8 @@
 |  Arizki Putra R  | arizkinewbie    |           Number Pattern               |    arizkijitsu@gmail.com      |
 |  Arsh Manva      |   hidekiriyuga  |           shinchan pattern             |    arshmanva21@gmail.com      |
 | Muhammad Bhaska  |    mhmdbhsk     |      Simple Fractions Arithmatic       | muhammadbhaska0@gmail.com     |
-|Siddartha Aggarwal|    Mammoth      |                 mammoth                |siddarthaaggarwal42@gmail.com  
+|Siddartha Aggarwal|    Mammoth      |                 mammoth                |siddarthaaggarwal42@gmail.com  |
+|Upender Singh Lakhwan| LaKhWaN      | Hotel Reservation System               | lakhwanus009@gmail.com        |
+|Upender Singh Lakhwan| LaKhWaN      | Login Registration GUI + OTP           | lakhwanus009@gmail.com        |
+|Upender Singh Lakhwan| LaKhWaN      | Currency Calculator                    | lakhwanus009@gmail.com        |
+|Upender Singh Lakhwan| LaKhWaN      | Wikipedia Voice Search GUI             | lakhwanus009@gmail.com        |
