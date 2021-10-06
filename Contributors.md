@@ -27,3 +27,6 @@
 |  Vaibhav Dadhich   |   Vaibhav1405   |           Inverted V Pattern           |  Vaibhavdadhich74@gmail.com   |
 |  Wahyu Firmansyah  |   bywahjoe      |           Tkinter Square Area         	|  wahjoe.why@gmail.com   	    |
 |  Rizal Amrullah    |      rzlamrr    |           Pascal List Pattern          |  rzlamrr.dvst@protonmail.com  |
+| Upender Singh Lakhwan | LaKhWaN      |          Hotel Reservation System      | lakhwanus009@gmail.com        |
+| Upender Singh Lakhwan | LaKhWaN      |          Currency Calculator GUI       | lakhwanus009@gmail.com        |
+| Upender Singh Lakhwan | LaKhWaN      |       Login Register GUI + OTP         | lakhwanus009@gmail.com        |
