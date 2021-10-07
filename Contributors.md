@@ -29,3 +29,7 @@
 |  Rizal Amrullah    |      rzlamrr    |           Pascal List Pattern          |  rzlamrr.dvst@protonmail.com  |
 | Namit Pratap Singh |    baznamit     |     Equilateral Triangle Pattern       |   baznamit.github@gmail.com   |
 | Muskan Ali Qureshi |    muskan467    |            Typing Speed Test           |      qmuskan467@gmail.com     |
+|Upender Singh Lakhwan|    LaKhWaN     | Hotel Reservation System               |   lakhwanus009@gmail.com      |
+|Upender Singh Lakhwan|    LaKhWaN     | Login Registration GUI + OTP           |   lakhwanus009@gmail.com      |
+|Upender Singh Lakhwan|    LaKhWaN     | Currency Calculator                    |   lakhwanus009@gmail.com      |
+|Upender Singh Lakhwan|    LaKhWaN     | Wikipedia Voice Search GUI             |   lakhwanus009@gmail.com      |
