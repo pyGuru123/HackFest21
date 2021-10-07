@@ -27,3 +27,4 @@
 |  Vaibhav Dadhich   |   Vaibhav1405   |           Inverted V Pattern           |  Vaibhavdadhich74@gmail.com   |
 |  Wahyu Firmansyah  |   bywahjoe      |           Tkinter Square Area         	|  wahjoe.why@gmail.com   	    |
 |  Rizal Amrullah    |      rzlamrr    |           Pascal List Pattern          |  rzlamrr.dvst@protonmail.com  |
+|  Dwi Putri A S     |    dwiputrias   |            Arrow Pattern               |    dwiputrias84@gmail.com  |
