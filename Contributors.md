@@ -28,3 +28,4 @@
 |  Wahyu Firmansyah  |   bywahjoe      |           Tkinter Square Area         	|  wahjoe.why@gmail.com   	    |
 |  Rizal Amrullah    |      rzlamrr    |           Pascal List Pattern          |  rzlamrr.dvst@protonmail.com  |
 | Namit Pratap Singh |    baznamit     |     Equilateral Triangle Pattern       |   baznamit.github@gmail.com   |
+| Muskan Ali Qureshi |    muskan467    |            Typing Speed Test           |      qmuskan467@gmail.com     |
