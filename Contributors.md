@@ -33,3 +33,4 @@
 |Upender Singh Lakhwan|    LaKhWaN     | Login Registration GUI + OTP           |   lakhwanus009@gmail.com      |
 |Upender Singh Lakhwan|    LaKhWaN     | Currency Calculator                    |   lakhwanus009@gmail.com      |
 |Upender Singh Lakhwan|    LaKhWaN     | Wikipedia Voice Search GUI             |   lakhwanus009@gmail.com      |
+|    Varshini V      |    okvarsh      |            Hexagon Pattern             |   varshvilas@gmail.com        |
