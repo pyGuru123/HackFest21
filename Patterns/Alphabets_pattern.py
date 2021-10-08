@@ -455,12 +455,7 @@ Example:
                 print(str(character))
     else:
         print(str(values))
-
-
-# In[116]:
-
-
-patternprint('Oct','L')
-
-
-# ### End
+#Adding user input modifiying the file it helps the user to input their own
+ch=input("enter a word you want to see:\n")
+ch1=input("enter character you want to work with\n");
+patternprint(ch,ch1)

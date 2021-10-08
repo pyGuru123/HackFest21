@@ -36,5 +36,4 @@
 | Lorenzo Brooks     |     CnL26       |          Wormhole Animation            |   lorenzobrooks26@gmail.com   |
 |    Varshini V      |    okvarsh      |            Hexagon Pattern             |     varshvilas@gmail.com      |
 |  Dwi Putri A S     |    dwiputrias   |            Arrow Pattern               |    dwiputrias84@gmail.com     |
-| Nisrin Dhoondia | mygoal-javadeveloper | create_pattern | mygoal.javasoftwaredeveloper@gmail.com |  
-
+| Nisrin Dhoondia    | mygoal-javadeveloper |       create_pattern    |  mygoal.javasoftwaredeveloper@gmail.com |  
