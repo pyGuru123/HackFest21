@@ -27,4 +27,12 @@
 |  Vaibhav Dadhich   |   Vaibhav1405   |           Inverted V Pattern           |  Vaibhavdadhich74@gmail.com   |
 |  Wahyu Firmansyah  |   bywahjoe      |           Tkinter Square Area         	|  wahjoe.why@gmail.com   	    |
 |  Rizal Amrullah    |      rzlamrr    |           Pascal List Pattern          |  rzlamrr.dvst@protonmail.com  |
-|  Dwi Putri A S     |    dwiputrias   |            Arrow Pattern               |    dwiputrias84@gmail.com  |
+| Namit Pratap Singh |    baznamit     |     Equilateral Triangle Pattern       |   baznamit.github@gmail.com   |
+| Muskan Ali Qureshi |    muskan467    |            Typing Speed Test           |      qmuskan467@gmail.com     |
+|Upender Singh Lakhwan|    LaKhWaN     |         Hotel Reservation System       |   lakhwanus009@gmail.com      |
+|Upender Singh Lakhwan|    LaKhWaN     |       Login Registration GUI + OTP     |   lakhwanus009@gmail.com      |
+|Upender Singh Lakhwan|    LaKhWaN     |          Currency Calculator           |   lakhwanus009@gmail.com      |
+|Upender Singh Lakhwan|    LaKhWaN     |        Wikipedia Voice Search GUI      |   lakhwanus009@gmail.com      |
+| Lorenzo Brooks     |     CnL26       |          Wormhole Animation            |   lorenzobrooks26@gmail.com   |
+|    Varshini V      |    okvarsh      |            Hexagon Pattern             |     varshvilas@gmail.com      |
+|  Dwi Putri A S     |    dwiputrias   |            Arrow Pattern               |    dwiputrias84@gmail.com     |
