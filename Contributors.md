@@ -37,3 +37,4 @@
 |    Varshini V      |    okvarsh      |            Hexagon Pattern             |     varshvilas@gmail.com      |
 |  Dwi Putri A S     |    dwiputrias   |            Arrow Pattern               |    dwiputrias84@gmail.com     |
 | Nisrin Dhoondia    | mygoal-javadeveloper |       create_pattern    |  mygoal.javasoftwaredeveloper@gmail.com |  
+| Damarla Venkata Sai Chandana | chandu6111 |  leftArrowPattern | dvs6112001@gmail.com |
