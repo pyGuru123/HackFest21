@@ -1,7 +1,7 @@
-# import required modules
-from configparser import ConfigParser
-import requests
-from tkinter import *
+# importing the required modules
+from configparser import ConfigParser #to parse the config file
+import requests # for calling the url
+from tkinter import * 
 from tkinter import messagebox
 
 config_file = "config.ini"
@@ -10,7 +10,7 @@ config.read(config_file)
 api_key = config['nirma']['api']
 url = 'http://api.openweathermap.org/data/2.5/weather?q={}&appid={}'
 
-
+# This is a generic function to get the weather details of any city
 def getweather(city):
     result = requests.get(url.format(city, api_key))
       
@@ -32,9 +32,9 @@ def getweather(city):
     else:
         print("No Results Found For The City You Entered")
 
-
+# This is a generic function called when a search query is entered
 def search():
-    city = city_entered.get()
+    city = city_entered.get().lower()
     weather = getweather(city)
       
     if weather:
@@ -55,19 +55,18 @@ def search():
         messagebox.showerror('Error', "Cannot find {}".format(city))
 
 app = Tk()
-app.title("Nirmalya's Weather App")
+app.title("nirmalya8 's Weather App")
 
 app.geometry("2000x2000")
   
-# add labels, buttons and text
 city_entered = StringVar()
 city_wid = Entry(app, textvariable=city_entered)
 city_wid.pack(padx=5, pady=5)#padx=20, pady=40)
   
-button = Button(app, text="Search Weather",width=12, command=search)
+button = Button(app, text="Get Weather",width=12, command=search)
 button.pack()#padx=20, pady=40)
   
-loc = Label(app, text="Enter Location Here", font={'bold', 20})#,borderwidth=2, relief="solid")
+loc = Label(app, text="Enter The Location In The Search Box Above", font={'bold', 20})#,borderwidth=2, relief="solid")
 loc.pack(padx=10, pady=10)
   
 tempLab = Label(app, text="", font={'bold', 20})#,borderwidth=2, relief="solid")
