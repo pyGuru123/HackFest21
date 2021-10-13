@@ -15,4 +15,4 @@ This repo is for python beginners and contains lot of beginner python projects f
 Here's a valid repository for python programmers for hacktoberfest : [Decrypto](https://github.com/pyGuru123/Decrypto)
 
  
-### 😎🙏 Thanks to Our Awesome [Contributors](https://github.com/pyGuru123/Hacktoberfest-2021/blob/main/Contributors.md) 🙏😎
+##### 😎🙏 Thanks to Our Awesome [Contributors](https://github.com/pyGuru123/Hacktoberfest-2021/blob/main/Contributors.md) 🙏😎
