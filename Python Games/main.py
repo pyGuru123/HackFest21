@@ -1,3 +1,5 @@
+#maze game python 
+
 from graph import Graph
 from character import Character
 import ui_file
