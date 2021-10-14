@@ -39,4 +39,4 @@
 | Nisrin Dhoondia    | mygoal-javadeveloper |       create_pattern    |  mygoal.javasoftwaredeveloper@gmail.com |  
 | Damarla Venkata Sai Chandana | chandu6111 |  leftArrowPattern | dvs6112001@gmail.com |
 |  Rishikesh Kumar  |  Rishikesh-kumar-7258  |  Flappy Bird  |  rishi7258prince@gmail.com |
-|  Rishikesh Kumar  |  Rishikesh-kumar-7258  |  Breakout  |  rishi7258prince@gmail.com  | 
+|  Pallaav Sethi    |  Pallaav  |  Email Spam Detection  |  pallaav.sethi@gmail.com  | 
