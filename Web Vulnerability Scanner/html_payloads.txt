@@ -1,0 +1,8 @@
+<h1>test_html_injection</h1>
+<p>test_html_injection</p>
+<a href="#inject_html>test_html_injection</a>
+<span>test_html_injection</span>
+<i>test_html_injection</span>
+<img id="xss" src="http://onerror=eval(
+document.querySelectorAll('span')[10].innerText)//">
+<span>document.querySelector('#xss').parentNode.innerHTML='\x3cmarqueestyle=color:red\x3eXSS\x3c/marquee\x3e';alert('XSS')</span>
